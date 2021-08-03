@@ -1,0 +1,8 @@
+<label for="language-choice">Choose a Language</label>     
+<input list="language" id = "language-choice" name = "language-choice"/>
+
+<datalist id="language">
+    <option value="HTML">
+    <option value="CSS">
+    <option value="Javascript">
+</datalist> 
